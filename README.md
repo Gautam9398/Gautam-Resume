@@ -1,5 +1,7 @@
 ## Gautam Resume
 ## Education
-BSC
+BSC Computer Science
 ## skills
-Java, Game etc
+Java, HTML
+## Work Experience
+Process Associate in Genpact
